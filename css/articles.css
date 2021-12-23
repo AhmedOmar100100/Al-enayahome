@@ -1,0 +1,82 @@
+.main-heading-ar {
+    font-size: 35px;
+    padding: 30px 0px;
+}
+
+.ar-h-text {
+    width: 90%;
+    margin: 0 auto;
+    color: #333;
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 60px;
+}
+
+.toc .toc-heading {
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 30px;
+    margin: 0;
+    background-color: #F1EFEF;
+    padding: 9px 13px;
+    border-bottom: 2px solid #1D8387;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.toc ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    border-bottom: 2px solid #E0E0E0;
+    overflow: hidden;
+    opacity: 1;
+    max-height: 800px;
+}
+
+.toc ul li {
+    margin: 0 13px 5px 13px;
+    line-height: 1.8;
+}
+
+.toc ul li:first-child a {
+    display: block;
+    margin-top: 9px;
+}
+
+.toc ul li a {
+    transition: all .3s ease-in-out;
+}
+
+.toc ul li a:hover {
+    color: #333;
+}
+
+.articles {
+    width: 90%;
+    margin: auto;
+}
+
+.articles .card {
+    border-bottom-width: 0px;
+
+
+}
+
+.articles .card .card-body .card-title {
+    font-family: 'ae_Nice';
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+
+
+
+}
+
+.articles .card p {
+    color: #3d4957;
+    font-size: 18px;
+    line-height: 1.8;
+}
