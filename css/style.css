@@ -149,7 +149,7 @@ html {
 /* start home */
 .home {
   height: 100vh;
-  background-image: url("../img/aboutcom.jpg");
+  background-image: url("../img/banner.jpg");
   background-size: cover;
   position: relative;
 
@@ -178,6 +178,7 @@ html {
   width: 62%;
   line-height: 43px;
   margin-bottom: 40px;
+  color: #000;
 
 
 }
