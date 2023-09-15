@@ -491,8 +491,8 @@ footer .phone {
 /* responsive */
 
 .contact-mob {
-  color: #fff;
-  background-color: rgb(9, 128, 9);
+/*   color: #fff;
+  background-color: rgb(9, 128, 9); */
   font-size: 18px;
   padding: 20px;
   border-radius: 10px;
